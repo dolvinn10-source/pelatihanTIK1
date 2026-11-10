@@ -15,12 +15,11 @@ body {
 
 
 .kartu-profil img {
-    widht: 150px;
-    border-radius: 50%;
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
 }
 
-.kartu-profil{
-    widht: 150px;
-    border-radius: 50%;
-}
+
+
     
